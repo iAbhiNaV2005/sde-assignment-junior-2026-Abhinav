@@ -8,4 +8,8 @@ data/
 data_large/
 reports/
 final_state.csv
+*final_state*.csv
+*.tmp
 .pytest_cache/
+.agents/
+skills-lock.json
